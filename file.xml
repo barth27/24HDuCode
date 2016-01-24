@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<piece>
+  <Introduction attribut="">Comédie Représentée pour la première fois à Paris sur le théâtre du Palais-Royal le vendredi 6e du mois d’août 1666 par la Troupe du Roi   Personnages   SGANARELLE, mari de Martine. MARTINE, femme de Sganarelle. M. ROBERT, voisin de Sganarelle. VALÈRE, domestique de Géronte. LUCAS, mari de Jacqueline. GÉRONTE, père de Lucinde. JACQUELINE, nourrice chez Géronte, et femme de Lucas. LUCINDE, fille de Géronte. LÉANDRE, amant de Lucinde. THIBAUT, père de Perrin. PERRIN, fils de Thibaut, paysan. </Introduction>
+  <acte attribut="I">
+    <scène attribut="I">SGANARELLE, MARTINE, paroissant sur le théâtre en se querellant. </scène>
+    <scène attribut="II">M. ROBERT, SGANARELLE, MARTINE </scène>
+    <scène attribut="IV">VALÈRE, LUCAS, MARTINE </scène>
+    <scène attribut="V">SGANARELLE, VALÈRE, LUCAS </scène>
+  </acte>
+  <acte attribut="II">
+    <scène attribut="I">GÉRONTE, VALÈRE, LUCAS, JACQUELINE </scène>
+    <scène attribut="II">VALÈRE, SGANARELLE, GÉRONTE, LUCAS, JACQUELINE </scène>
+    <scène attribut="III">SGANARELLE, GÉRONTE, LUCAS, JACQUELINE </scène>
+    <scène attribut="IV">LUCINDE, VALÈRE, GÉRONTE, LUCAS, SGANARELLE, JACQUELINE </scène>
+    <scène attribut="V">SGANARELLE, LÉANDRE </scène>
+  </acte>
+  <acte attribut="III">
+    <scène attribut="I">SGANARELLE, LÉANDRE </scène>
+    <scène attribut="II">THIBAUT, PERRIN, SGANARELLE </scène>
+    <scène attribut="III">JACQUELINE, SGANARELLE, LUCAS </scène>
+    <scène attribut="IV">GÉRONTE, LUCAS </scène>
+    <scène attribut="V">SGANARELLE, LÉANDRE, GÉRONTE </scène>
+    <scène attribut="VI">JACQUELINE, LUCINDE, GÉRONTE, LÉANDRE, SGANARELLE </scène>
+    <scène attribut="VII">GÉRONTE, SGANARELLE </scène>
+    <scène attribut="VIII">LUCAS, GÉRONTE, SGANARELLE </scène>
+    <scène attribut="IX">MARTINE, SGANARELLE, LUCAS </scène>
+    <scène attribut="X">GÉRONTE, SGANARELLE, MARTINE, LUCAS </scène>
+    <scène attribut="XI">LÉANDRE, LUCINDE, JACQUELINE, LUCAS, GÉRONTE, SGANARELLE, MARTINE </scène>
+  </acte>
+</piece>
