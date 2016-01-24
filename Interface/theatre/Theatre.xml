@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Piece>
+       <Introduction> Une periode difficile </Introduction>
+       <Acte Numero="1">
+            <Scene Description="j'ai beaucoup aimer meme ci ce fut difficile">
+             	<Personnage nom="Martine"> 
+              	</Personnage>
+            </Scene>
+        </Acte>
+</Piece>
